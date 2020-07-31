@@ -1,0 +1,9 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    /* viewport height -> entire window */ 
+    min-height: 100vh; 
+}
